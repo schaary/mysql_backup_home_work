@@ -1,4 +1,8 @@
-
 Gemfile.lock
 .env
 .DS_Store
+.*~
+*~
+~.swp
+~swp
+.index.html.swp
